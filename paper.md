@@ -9,3 +9,5 @@ In this work, bonding streghth EBC were examined after low velocity steam exposu
 
 Although there has been some pleminary studies to measure stregth using benidng method, no comprehensive study has been conducted (Richards, 2016). 
 
+
+Lee et al (2021) identified the evolution of the interface characteristics upon steam exposure. Yet, it has been pointed out that further study required.
