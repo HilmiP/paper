@@ -13,3 +13,6 @@ The main aim of the study the to understand effect of TGO formation upon steam e
 
 #Simulations	
 In order to examine the bonding strength of the coatings, in-situ cantilever beam bending method has been utilised. 
+
+#Experimental
+FIB was used to prepare samples. 
