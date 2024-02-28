@@ -1,5 +1,5 @@
 # Title
-Effect of steam oxidation on bonding stregth of EBCs
+Effect of steam oxidation on bonding strength of EBCs
 
 #Author
 A Hilmi Paksoy, Dan Scotson
