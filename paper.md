@@ -1,8 +1,12 @@
 # Title
-Effect of steam exposure on bonding strength of EBCs
+Effect of steam exposure and oxidation on bonding strength of EBCs
 
 #Author
+<<<<<<< HEAD
 A Hilmi Paksoy, Dan Scotson
+=======
+A Hilmi Paksoy Dan Scotson
+>>>>>>> simulations
 
 # Introduction
 In this work, bonding streghth EBC were examined after low velocity steam exposure.
@@ -13,5 +17,5 @@ Lee et al (2021) identified the evolution of the interface characteristics upon 
 
 The main aim of the study the to understand effect of TGO formation upon steam exposure on failure of EBCs.
 
-#Experimental	
+#Simulations	
 In order to examine the bonding strength of the coatings, in-situ cantilever beam bending method has been utilised. 
