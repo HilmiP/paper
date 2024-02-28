@@ -11,8 +11,8 @@ Lee et al (2021) identified the evolution of the interface characteristics upon 
 
 The main aim of the study the to understand effect of TGO formation upon steam exposure on failure of EBCs.
 
-#Simulations	
+# Simulations	
 In order to examine the bonding strength of the coatings, in-situ cantilever beam bending method has been utilised. 
 
-#Experimental
+# Experimental
 FIB was used to prepare samples. 
