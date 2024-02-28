@@ -3,7 +3,8 @@ Effect of steam exposure on bonding strength of EBC
 
 # Author
 
-Dan Scotson, A Hilmi Paksoy
+A Hilmi Paksoy, University of Manchester
+Daniel Scotson, University of Oxford
 
 # Introduction
 In this work, bonding streghth EBC were examined after low velocity steam exposure.
