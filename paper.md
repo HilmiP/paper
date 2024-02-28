@@ -1,13 +1,7 @@
 # Title
-Effect of steam exposure and oxidation on bonding strength of EBCs
-
+Effect of steam exposure on bonding strength of EBC
 #Author
-<<<<<<< HEAD
 A Hilmi Paksoy, Dan Scotson
-=======
-A Hilmi Paksoy Dan Scotson
->>>>>>> simulations
-
 # Introduction
 In this work, bonding streghth EBC were examined after low velocity steam exposure.
 
