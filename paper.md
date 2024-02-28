@@ -12,3 +12,6 @@ Although there has been some pleminary studies to measure stregth using benidng 
 Lee et al (2021) identified the evolution of the interface characteristics upon steam exposure. Yet, it has been pointed out that further study required.
 
 The main aim of the study the to understand effect of TGO formation upon steam exposure on failure of EBCs.
+
+#Experimental	
+In order to examine the bonding strength of the coatings, in-situ cantilever beam bending method has been utilised. 
